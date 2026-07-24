@@ -219,7 +219,7 @@ h1{
 .carousel-blue { color: #4DAEFE; }
 
 .carousel-wrapper {
-  width: 100%;
+  width: 60%;
   max-width: 1100px;
   margin-inline: auto;
   overflow: hidden;
@@ -231,7 +231,7 @@ h1{
   display: flex;
   gap: 20px;
   /* vvv Adjust Time vvv */
-  animation: slide-pingpong 30s ease-in-out infinite alternate;
+  animation:slide-pingpong 7s ease-in-out infinite alternate;
 }
 
 /* Desktop: show 2 images at once */
