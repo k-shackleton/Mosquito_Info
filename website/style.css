@@ -34,7 +34,7 @@ body {
 .navbar-title {
     position: absolute;
     /* chage to 37.7 fro better */
-    left: 50.7%;
+    left: 48.5%;
     transform: translateX(-50%);
     font-size: 1.5em;
     font-weight: 600;
