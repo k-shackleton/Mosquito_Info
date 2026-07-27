@@ -95,8 +95,9 @@ body {
 
 .mw-overlay {
   position: absolute;
-  top: 35%;
-  left: 10%;
+  top: 60%;
+  left:50%;
+  transform:translate(-50%, -40%);
   /* transform: translateY(-30%); */
   color: white;
   z-index: 1;
@@ -107,7 +108,7 @@ body {
   font-weight: 700;
   margin: 0;
   color: #7CBB2B;
-  text-align:center;
+  text-align: center;
 }
 
 .mw-title span {
