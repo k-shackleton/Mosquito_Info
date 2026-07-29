@@ -309,13 +309,12 @@ h1{
 
 .ai-image {
   width: 100vw;
-  height: 100vh;
+  /* height: 100vh; */
   overflow: hidden; /* allow full image */
   max-height: none; /* remove height restriction */
 }
 
 .ai-image img {
-  width: 100%;
   height: auto;
   object-fit: cover;
   display: block;
