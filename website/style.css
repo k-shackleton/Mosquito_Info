@@ -4,6 +4,28 @@
  > Light Blue - 4DAEFE
 */
 
+/* added by kshack */
+
+.imgContainer{
+  float:left;
+}
+
+/* .content {
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+} */
+
+.grid-content {
+  width: 85%;
+  height: 50vh;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 5px;
+}
+
+
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
