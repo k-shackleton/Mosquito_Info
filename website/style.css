@@ -410,7 +410,7 @@ td ul {
 
 /* Images in carousel */ .carousel-track img, .center-img {
     width: fill;
-    height: 75vh;
+    height: 50vh;
     object-fit: cover;
     border-radius: 12px; 
   }
